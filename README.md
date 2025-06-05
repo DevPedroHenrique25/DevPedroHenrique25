@@ -1,4 +1,4 @@
-<h1 align="center">👋 Opa, meu nome Pedro Henrique!</h1>
+<h1 align="center">👋 Opa, meu nome é Pedro Henrique!</h1>
 
 <p align="center">
   🚀 Desenvolvedor Front-End | 💻 Apaixonado por tecnologia e codificação | 🔍 Em busca de oportunidades
