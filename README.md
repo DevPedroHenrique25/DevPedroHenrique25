@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Opa, meu nome Pedro Henrique!</h1>
 
-<!--
-**DevPedroHenrique25/DevPedroHenrique25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Desenvolvedor Front-End | 💻 Apaixonado por tecnologia e codificação | 🔍 Em busca de oportunidades
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+- 🎯 Desenvolvedor Front-End formado pela **Danki Code**, com diploma no curso **Desenvolvedor Front-End**
+- 📚 Atualmente cursando **Desenvolvimento Web dando inicio ao Back-End**
+- 🌱 Buscando aprimorar meus conhecimentos em **JavaScript e React **
+- 💡 Apaixonado por desenvolvimento de interfaces, experiências digitais e tecnologia
+- 🔍 Aberto a oportunidades como **Desenvolvedor Front-End** (remoto, híbrido ou presencial)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🔥 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [dev.pedrohenrique.contato@gmail.com](mailto:dev.pedrohenrique.contato@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-39148b2a1/) 
+
+---
+
+<p align="center">
+  🔍 <b>Aberto a oportunidades como Desenvolvedor Front-End!</b><br>
+  🚀 <i>Vamos construir algo incrível juntos?</i>
+</p>
