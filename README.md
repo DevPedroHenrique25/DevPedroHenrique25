@@ -9,7 +9,7 @@
 ## 💼 Sobre mim
 - 🎯 Desenvolvedor Front-End formado pela **Danki Code**, com diploma no curso **Desenvolvedor Front-End**
 - 📚 Atualmente cursando **Desenvolvimento Web dando inicio ao Back-End**
-- 🌱 Buscando aprimorar meus conhecimentos em **JavaScript e React **
+- 🌱 Buscando aprimorar meus conhecimentos em **JavaScript, React e PHP **
 - 💡 Apaixonado por desenvolvimento de interfaces, experiências digitais e tecnologia
 - 🔍 Aberto a oportunidades como **Desenvolvedor Front-End** (remoto, híbrido ou presencial)
 
