@@ -27,25 +27,6 @@
 
 ---
 
-## 🔥 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVieira&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVieira&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🚀 Conquistas e Progresso
-
-![Progress](https://img.shields.io/badge/Aprendizado-JavaScript-ffdd00?style=for-the-badge&logo=javascript)
-![Progress](https://img.shields.io/badge/Aprendizado-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Progress](https://img.shields.io/badge/Aprendizado-PHP-7D86C5?style=for-the-badge&logo=php&logoColor=white)
-![Progress](https://img.shields.io/badge/Aprendizado-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Progress](https://img.shields.io/badge/Aprendizado-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
 ## 📫 Contato
 
 - 📧 Email: [dev.pedrohenrique.contato@gmail.com](mailto:dev.pedrohenrique.contato@gmail.com)  
