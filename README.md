@@ -51,7 +51,7 @@
 ## 📫 Contato
 - 📧 Email: [dev.pedrohenrique.contato@gmail.com](mailto:dev.pedrohenrique.contato@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-39148b2a1/)  
-- 🌐 [GitHub](https://github.com/PedroHenriqueVieira)  
+- 🌐 [GitHub](https://github.com/DevPedroHenrique25?tab=repositories)  
 
 ---
 
