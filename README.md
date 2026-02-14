@@ -20,9 +20,8 @@
 
 ## 📂 Projetos
 - **Painel Administrativo Full Stack** – HTML, CSS, JS, PHP e MySQL (CRUD avançado, arquitetura organizada, controle de permissões)  
-- **App Clima e Tempo** – Consome APIs externas, mostra informações em tempo real, construído com React  
 - **Redesign de Sites** – Transformação de layouts antigos em interfaces modernas e responsivas  
-*(Mais projetos disponíveis no meu [GitHub](https://github.com/PedroHenriqueVieira))*
+*(Mais projetos disponíveis no meu [GitHub](https://github.com/DevPedroHenrique25?tab=repositories)*
 
 ---
 
