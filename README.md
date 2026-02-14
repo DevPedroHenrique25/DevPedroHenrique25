@@ -39,14 +39,6 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVieira&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVieira&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📚 Aprendizado e Crescimento
 - Avançando em **Back-End com PHP e MySQL**, criação de sistemas completos.  
 - Aprofundando **React e integração com APIs externas**.  
