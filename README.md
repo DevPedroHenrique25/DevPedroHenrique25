@@ -1,4 +1,4 @@
-<h1 align="center">👋 Eae! Seja bem-vindo, eu sou Pedro Henrique</h1>
+**<h1 align="center">👋 Eae! Seja bem-vindo, eu sou Pedro Henrique</h1>
 
 ---
 
@@ -7,14 +7,14 @@
 
 💻 Tenho experiência prática em **HTML, CSS, JavaScript, React, PHP e MySQL**, criação de painéis administrativos e integração com APIs. Meu trabalho inclui:
 - Desenvolvimento de **painéis administrativos completos** com CRUD avançado, arquitetura organizada e controle de permissões.  
-- Consumo de APIs externas, como **API de clima/tempo**, e integração com front-end em React.  
+- Consumo de APIs externas e integração com front-end em react.  
 - Criação de **layouts responsivos e interfaces amigáveis** para usuários finais.
 
 🌍 Ao mesmo tempo, estou aprimorando meu inglês técnico para ampliar oportunidades em projetos globais de tecnologia.
 
-🚀 Estou buscando **oportunidades como Desenvolvedor Front-End ou Full Stack**, com projetos que me desafiem e me permitam entregar soluções digitais de impacto.
+🚀 Estou buscando **oportunidades como desenvolvedor front-end ou full stack**, com projetos que me desafiem e me permitam entregar soluções digitais.
 
-📌 Meu objetivo é me consolidar como profissional Full Stack, com ênfase em desenvolvimento web seguro, escalável e eficiente, contribuindo com inovação e qualidade nos projetos em que atuo.
+📌 Meu objetivo é me consolidar como profissional full stack, com ênfase em desenvolvimento web seguro, escalável e eficiente, contribuindo com inovação e qualidade nos projetos em que atuo.
 
 ---
 
@@ -36,7 +36,7 @@
 - **Linguagens:** HTML, CSS, JavaScript, PHP  
 - **Frameworks/Bibliotecas:** React  
 - **Bancos de dados:** MySQL  
-- **Ferramentas:** Git, GitHub, VS Code, PHPMailer  
+- **Ferramentas:** Git, GitHub, VS Code  
 - **Outros:** APIs REST, consumo de dados externos, arquitetura MVC, controle de permissões  
 
 ---
@@ -44,7 +44,6 @@
 ## 📜 Certificações e Cursos
 - **Curso Desenvolvedor Front-End** – Danki Code | ✅ Concluído  
 - **Full Stack Master (em andamento)** – Danki Code  
-- **Curso Hackersec (planejado)** – Cibersegurança, testes de intrusão e análise de vulnerabilidade
 
 ---
 
@@ -59,3 +58,4 @@
   🔍 <b>Aberto a oportunidades como Desenvolvedor Front-End ou Full Stack!</b><br>
   🚀 <i>Vamos construir algo incrível juntos?</i>
 </p>
+**
